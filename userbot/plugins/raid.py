@@ -8,7 +8,7 @@ async def fightbot(event):
        
         await event.delete()
         kek = event.chat_id
-        await bot.send_message(kek, "Pehle main tereko chakna dega, fir daru pilayega, fir jab aap dimag se nahi L*nd se sochoge, tab bolega..")
+        await bot.send_message(kek, "Pehle main tereko chakna dega, fir daru pilayega, fir jab aap dimag se nahi Lund se sochoge, tab bolega..")
         await bot.send_message(kek, "Pardhan mantri se number liya, parliament apne :__;baap ka hai...")
         await bot.send_message(kek, "It's better to let someone think you are an Idiot than to open your mouth and prove it.")
         await bot.send_message(kek, "Aaisi Londiya Chodiye, L*nd Ka Aapa Khoye, Auro Se Chudi Na Ho, Biwi Wo Hi Hoye")
@@ -17,9 +17,9 @@ async def fightbot(event):
         await bot.send_message(kek, "Nachoo Bhosdike Nachoo")
         await bot.send_message(kek, "Talking to a liberal is like trying to explain social media to a 70 years old")
         await bot.send_message(kek, "CHAND PE HAI APUN LAWDE.")
-        await bot.send_message(kek, "Pehle main tereko chakna dega, fir daru pilayega, fir jab aap dimag se nahi L*nd se sochoge, tab bolega..")
+        await bot.send_message(kek, "Pehle main tereko chakna dega, fir daru pilayega, fir jab aap dimag se nahi Lund se sochoge, tab bolega..")
         await bot.send_message(kek, "Jinda toh jaat ke baal bhi hai")
-        await bot.send_message(kek, "Pehle main tereko chakna dega, fir daru pilayega, fir jab aap dimag se nahi L*nd se sochoge, tab bolega..")
+        await bot.send_message(kek, "Pehle main tereko chakna dega, fir daru pilayega, fir jab aap dimag se nahi Lund se sochoge, tab bolega..")
         await bot.send_message(kek, "Sab ko pta tu randi ka baccha hai")
         await bot.send_message(kek, "Cachaa Ooo bhosdi wale Chacha")
         await bot.send_message(kek, "Sab ko pta tu randi ka baccha hai")
@@ -43,7 +43,7 @@ async def fightbot(event):
         await bot.send_message(kek, "Chut ke pasine mein talay huye bhajiye- Snack fried in pussy sweat")
         await bot.send_message(kek, "Chut ke dhakkan- Pussy lid")
         await bot.send_message(kek, "Chut ke gulam")
-        await bot.send_message(kek, "Chutiya ka bheja ghas khane gaya hai- idiot?™s brain has gone to eat grass")
+        await bot.send_message(kek, "Chutiya ka bheja ghas khane gaya hai- idiot?î¨ƒ brain has gone to eat grass")
         await bot.send_message(kek, "Choot marani ka- Pussy whipped")
         await bot.send_message(kek, "Choot ka baal")
         await bot.send_message(kek, "Chipkali ke jhaat ke baal")
@@ -102,9 +102,9 @@ async def fightbot(event):
         await bot.send_message(kek, "SAMJHAA LAWDE")
         await bot.send_message(kek, "YA DU TERE GAAND ME TAPAA TAP??")
         await bot.send_message(kek, "TERI BEHEN MERA ROZ LETI HAI")
-        await bot.send_message(kek, "TERI GF K SAATH MMS BANAA CHUKA HU???¤£?¤£")
+        await bot.send_message(kek, "TERI GF K SAATH MMS BANAA CHUKA HUðŸ˜‚ðŸ˜‚ðŸ˜‚")
         await bot.send_message(kek, "TU CHUTIYA TERA KHANDAAN CHUTIYA")
-        await bot.send_message(kek, "AUR KITNA BOLU BEY MANN BHAR GAYA MERA?¤£")
+        await bot.send_message(kek, "AUR KITNA BOLU BEY MANN BHAR GAYA MERAðŸ˜‚ðŸ˜‚ðŸ˜‚")
         await bot.send_message(kek, "Ab nikal ja jaake chkko k saath hilaa")
         
         
